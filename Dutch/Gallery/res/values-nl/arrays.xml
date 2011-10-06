@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="animation">
+        <item>Geen</item>
+        <item>Vervagen</item>
+        <item>Draaien</item>
+        <item>Pagina</item>
+        <item>Stapelen</item>
+        <item>Roteren</item>
+        <item>3D Kubus</item>
+        <item>Bedekken</item>
+    </string-array>
+    <string-array name="animation_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+</resources>

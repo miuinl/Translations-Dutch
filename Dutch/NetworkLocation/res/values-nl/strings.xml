@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_label">Netwerk Locatie</string>
+    <string name="location_warning_title">Locatie goedkeuring</string>
+    <string name="location_warning_message">Laat google\'s locatie dienst anonieme locatie gegevens verzamelen. Collectie zal ook optreden wanneer er geen toepassingen worden uitgevoerd.</string>
+    <string name="agree">Eens</string>
+    <string name="disagree">Oneens</string>
+</resources>
