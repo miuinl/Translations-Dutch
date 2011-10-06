@@ -197,7 +197,7 @@
     <string name="add_festival">Aanbevolen SMS</string>
     <string name="add_nickname_title">Roepnaam titel toevoegen</string>
     <string name="edit_nickname_for_nocontact">U heeft nog geen ontvanger. Voeg een ontvanger toe en klik erop om te bewerken</string>
-    <string name="edit_nickname_for_nocontact_by_robot">Voeg de ontvanger toe en klik op /'Telefoonboek/' om te bewerken</string>
+    <string name="edit_nickname_for_nocontact_by_robot">Voeg de ontvanger toe en klik op \'Telefoonboek\' om te bewerken</string>
     <string name="nickname_placeholder">Titel</string>
     <string name="select_bottom_text">Tekst aan onderkant</string>
     <string name="select_top_text">Tekst bovenaan</string>

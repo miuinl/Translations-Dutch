@@ -69,7 +69,7 @@
     <string name="user_phone_button_verify">verificatie</string>
     <string name="user_phone_format_error">Telefoonnummer bevat foutieve tekens</string>
     <string name="user_mitalk_sync_title">MiTalk</string>
-    <string name="user_mitalk_sync_summary">Met MiTalk kunt u berichten en foto's sturen en chatten met vrienden</string>
+    <string name="user_mitalk_sync_summary">Met MiTalk kunt u berichten en foto\'s sturen en chatten met vrienden</string>
     <string name="user_unbind">Verbreek</string>
     <string name="xiaomi_remove_account_title">Verwijder Xiaomi account</string>
     <string name="xiaomi_remove_account_message">Het wissen van dit account wist ook MI-ONE service gegevens, Market en MiTalk applicaties (Contact, SMS en Bel logs blijven bestaan), weet u zeker dat u wilt wissen?</string>
