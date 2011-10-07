@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ï»¿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string name="wallpapers">Android Live Wallpapers</string>
     <string name="wallpaper_walkaround">Venster</string>
@@ -21,7 +21,7 @@
     <string name="wallpaper_nexus_desc">Een kijkje in het neural netwerk.</string>
     <string name="clock_settings">Polar klok instellingen</string>
     <string name="show_seconds">Toon seconden</string>
-    <string name="variable_line_width">Variëer boog breedte</string>
+    <string name="variable_line_width">Variabele boog breedte</string>
     <string name="palette">Kleuren pallet</string>
     <string name="palette_gray">IJzer</string>
     <string name="palette_violet">Middernacht</string>
