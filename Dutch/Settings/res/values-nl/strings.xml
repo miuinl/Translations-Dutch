@@ -103,7 +103,7 @@
     <string name="backlight_title">Automatische helderheid</string>
     <string name="backup_data_summary">Back-up van huidige instellingen en toepassingsgegevens</string>
     <string name="backup_data_title">Back-up mijn gegevens</string>
-    <string name="backup_erase_dialog_message">Stoppen met back-up van instellingen en alle kopieÃ«n op Google-server wissen?</string>
+    <string name="backup_erase_dialog_message">Stoppen met back-up van instellingen en alle kopiëen op Google-server wissen?</string>
     <string name="backup_erase_dialog_title">Back-upinstellingen</string>
     <string name="backup_section_title">Back-up en herstel op mobiel</string>
     <string name="band_mode_failed">Niet geslaagd</string>
@@ -275,7 +275,7 @@
     <string name="bluetooth_dock_settings_headset">Als luidspreker</string>
     <string name="bluetooth_dock_settings_remember">Instellingen herinneren</string>
     <string name="bluetooth_dock_settings_title">Dock gebruiken voor audio</string>
-    <string name="bluetooth_enable_text">Empty buttonâ¦</string>
+    <string name="bluetooth_enable_text">Empty button</string>
     <string name="bluetooth_enter_passkey_msg">Geef sleutel in om te koppelen met %1$s</string>
     <string name="bluetooth_enter_pin_msg">Geef de PIN-code in om te koppelen. (Probeer 0000 of 1234.)</string>
     <string name="bluetooth_error_title">Let op</string>
@@ -312,8 +312,8 @@
     <string name="bluetooth_scan_text">Empty buttonâ¦</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Verbindingen beheren, apparaatnaam en detecteerbaarheid instellen</string>
-    <string name="bluetooth_settings_text">Empty buttonâ¦</string>
-    <string name="bluetooth_settings_title">Bluetooth instellingen</string>
+    <string name="bluetooth_settings_text">Empty button</string>
+    <string name="bluetooth_settings_title">Bluetooth</string>
     <string name="bluetooth_summary_connected_to_a2dp">Verbonden met media-audio</string>
     <string name="bluetooth_summary_connected_to_a2dp_headset">Verbonden met telefoon- en media-audio</string>
     <string name="bluetooth_summary_connected_to_headset">Verbonden met telefoonaudio</string>
@@ -518,7 +518,7 @@
     <string name="credentials_unlock_hint">Wachtwoord opslag aanmeldingsgegevens ingeven</string>
     <string name="credentials_wrong_password">Geef het juiste wachtwoord in</string>
     <string name="current_ime">Huidige invoer methode</string>
-    <string name="customized_theme_title">Thema\'s beheren</string>
+    <string name="customized_theme_title">Thema\'s</string>
     <string name="data_size_label">Data</string>
     <string name="date_and_time">Datum- en tijdinstellingen</string>
     <string name="date_and_time_settings_title">Datum en tijd</string>
@@ -695,16 +695,16 @@
     <string name="language_keyboard_settings_title">Taal- en toetsenbord</string>
     <string name="language_picker_title">Landinstelling</string>
     <string name="language_settings">Landinstelling en tekst</string>
-    <string name="language_settings_title">Taal en invoer</string>
+    <string name="language_settings_title">Taal en toetsenbord</string>
     <string name="large_font">Groot</string>
     <string name="launch_count_label">Aantal</string>
     <string name="launcher_kept_in_memory">In Launcher geheugen</string>
-    <string name="launcher_settings_title">Launcher instellingen</string>
+    <string name="launcher_settings_title">Launcher</string>
     <string name="lbs_apps">Applicaties die GPS gebruiken</string>
     <string name="led_colors_summary">LED kleur bij nieuwe berichten</string>
     <string name="led_frequence_summary">LED knipper frequentie</string>
     <string name="led_pulse_summary">LED knippert bij nieuwe meldingen</string>
-    <string name="led_settings">LED instellingen</string>
+    <string name="led_settings">LED</string>
     <string name="legal_information">Juridische informatie</string>
     <string name="license_title">Licentie</string>
     <string name="light_decrease_enabled_summary">Sta toe het licht te dimmen. Gebruik meerdere metingen om flikkeren te verminderen..</string>
@@ -1106,7 +1106,7 @@
     <string name="status_bar_toggle_arrangement">Arrangement</string>
     <string name="status_bar_toggle_divider_list">Schakelaars boven de balk zijn aktief</string>
     <string name="status_bar_toggle_divider_page">%1$d bovenstaande schakelaars zijn actief</string>
-    <string name="status_bar_toggle_settings">Statusbalk instellingen</string>
+    <string name="status_bar_toggle_settings">Statusbalk</string>
     <string name="status_bar_toggle_style">Statusbalk stijl</string>
     <string name="status_bar_toggle_style_compact">Compact</string>
     <string name="status_bar_toggle_style_single_page">Rooster</string>
@@ -1347,7 +1347,7 @@
     <string name="vpn_vpn_server_title">VPN-server instellen</string>
     <string name="vpn_yes_button">Ja</string>
     <string name="vpns">VPN\'s</string>
-    <string name="wallpaper_settings_title">Achtergrond instellingen</string>
+    <string name="wallpaper_settings_title">Achtergrond</string>
     <string name="widget_picker_title">Widget kiezen</string>
     <string name="wifi_access_points">Wi-Fi-netwerken</string>
     <string name="wifi_add_network">Wi-Fi-netwerk toev.</string>
