@@ -29,7 +29,7 @@
     <string name="usb_mode_mount_storage_title">USB opslag</string>
     <string name="mount_storage">Koppelen</string>
     <string name="dismount_storage">Niet koppelen</string>
-    <string name="move_data_to_sdcard_title">Data naar SD kaar verplaatsen</string>
+    <string name="move_data_to_sdcard_title">Data naar SD kaart verplaatsen</string>
     <string name="user_guide_for_notification">Je hebt een nieuwe notificatie ontvangen.Sleep de statusbalk naar beneden voor details</string>
     <string name="user_guide_for_toggle_list">Klik hier om de schakelaarlijst aan te passen</string>
     <string name="user_guide_for_call">Om terug te gaan naar de telefoon, sleep je de statusbalk naar beneden en klikt de oproep notificatie</string>

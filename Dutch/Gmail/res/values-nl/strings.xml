@@ -1,5 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
+    <string name="custom_from_account_address">&lt;%s></string>
+    <string name="reply_subject_label">Antwoord:</string>
+    <string name="forward_subject_label">Doorsturen:</string>
+    <string name="prefDefault_confirmActions">geen</string>
+    <string name="prefDefault_autoAdvance">lijst</string>
+    <string name="prefDefault_messageTextSize">1.0</string>
+    <string name="prefDefault_vibrateWhen">nooit</string>
+    <string name="prefDefault_vibrate_true">altijd</string>
+    <string name="prefDefault_vibrate_false">nooit</string>
+    <string name="prefDefault_snapHeader">altijd</string>
     <string name="read_perm_label">Gmail lezen</string>
     <string name="read_perm_desc">Staat deze app toe uw Gmail te lezen.</string>
     <string name="write_perm_label">Gmail aanpassen</string>

@@ -327,7 +327,7 @@
     <string name="breathing_light_freq_summary">Pauze voor wanneer de LED aan is</string>
     <string name="breathing_light_freq_title">LED knipperfrequentie</string>
     <string name="brightness">Helderheid</string>
-    <string name="browser_settings_title">Browser instellingen</string>
+    <string name="browser_settings_title">Browser</string>
     <string name="bssid_label">BSSID :</string>
     <string name="build_number">Buildnummer</string>
     <string name="builtin_keyboard_settings_summary">Ingebouwde toetsenbordinstellingen</string>
@@ -337,7 +337,7 @@
     <string name="cache_header_label">Buffer</string>
     <string name="cache_size_label">Buffer</string>
     <string name="cached">Achtergrondproces in cache</string>
-    <string name="calendar_settings_title">Agenda instellingen</string>
+    <string name="calendar_settings_title">Agenda</string>
     <string name="call_settings_title">Oproepen</string>
     <string name="camera_key_action_app_title">Open applicatie</string>
     <string name="camera_key_action_category_title">Gebruik als camera actief is</string>
@@ -485,7 +485,7 @@
     <string name="compatibility_mode_toggle_off">Zet uit</string>
     <string name="compatibility_mode_toggle_on">Zet aan</string>
     <string name="computing_size">Berekenen...</string>
-    <string name="config_list_label">Configured Networks</string>
+    <string name="config_list_label">Ingestelde Netwerken</string>
     <string name="contacts_kept_in_memory">Contacten gebeld</string>
     <string name="contributors_title">Bijdragen</string>
     <string name="controls_subtitle">Energieregeling</string>
@@ -629,13 +629,13 @@
     <string name="gadget_title">Energieregeling</string>
     <string name="getConfiguredNetworks">getConfiguredNetworks</string>
     <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="gmail_settings_title">Gmail instellingen</string>
+    <string name="gmail_settings_title">Gmail</string>
     <string name="gps_config_ntp_server">NTP server adres:</string>
     <string name="gps_config_summary">Aanpassen van de GPS instellingen voor het verbeteren van de nauwkeurigheid van positionering</string>
     <string name="gps_config_supl_host">SUPL server adres:</string>
     <string name="gps_config_supl_port">SUPL server poort:</string>
     <string name="gps_config_title">GPS configuratie</string>
-    <string name="gtalk_settings_title">Google Talk instellingen</string>
+    <string name="gtalk_settings_title">Google Talk</string>
     <string name="haptic_button_cancel">Annuleren</string>
     <string name="haptic_button_default">Laadt standaarden</string>
     <string name="haptic_button_minus">-</string>
@@ -664,7 +664,7 @@
     <string name="heavy_weight_stop_description">Als u de toepassing stopt, kan een deel van uw huidige werk verloren gaan</string>
     <string name="hidden_ssid_label">Hidden SSID :</string>
     <string name="huge_font">Enorm</string>
-    <string name="incoming_call_ringtone_settings_title">Ringtoon instellingen</string>
+    <string name="incoming_call_ringtone_settings_title">Ringtoon</string>
     <string name="incoming_call_vibrate_abbreviation">Oproepen</string>
     <string name="incoming_call_vibrate_title">Trillen bij oproep</string>
     <string name="incoming_call_volume_title">Volume inkomend gesprek</string>
@@ -673,7 +673,7 @@
     <string name="input_methods_settings_title">Tekstinvoer</string>
     <string name="install_all_warning">Uw telefonische en persoonlijke gegevens zijn kwetsbaar voor aanvallen door toepassingen uit onbekende bronnen. U gaat ermee akkoord dat u als enige verantwoordelijk bent voor eventuele schade aan de telefoon of het verloren gaan van gegevens ten gevolge van het gebruiken van deze toepassingen</string>
     <string name="install_applications">Onbekende bronnen</string>
-    <string name="install_development_settings_title">Ontwikkelaars instellingen</string>
+    <string name="install_development_settings_title">Ontwikkelaars</string>
     <string name="install_unknown_applications">Installatie van niet-markttoepassingen toestaan</string>
     <string name="insufficient_storage">Onvoldoende geheugen</string>
     <string name="intent_sender_account_label">Account:</string>
@@ -844,7 +844,7 @@
     <string name="menu_stats_unplugged">%1$s sinds uitschakelen</string>
     <string name="miui_copyright_title">Copyright</string>
     <string name="mms_kept_in_memory">Bericht in geheugen</string>
-    <string name="mms_settings_title">Berichten instellingen</string>
+    <string name="mms_settings_title">Berichten</string>
     <string name="mms_vibrate_abbreviation">Berichten</string>
     <string name="mms_vibrate_title">Trillen bij berichten</string>
     <string name="monitor_history">Monitor accu gebruik</string>
@@ -862,8 +862,8 @@
     <string name="network_settings_summary">Opties instellen voor roaming, netwerken, toegangspunten</string>
     <string name="network_settings_title">Mobiele netwerken</string>
     <string name="network_share_settings_title">Tethering &amp; Hotspot</string>
-    <string name="network_state_label">Network State :</string>
-    <string name="networkid_label">Network ID :</string>
+    <string name="network_state_label">Netwerk Status:</string>
+    <string name="networkid_label">Netwerk ID :</string>
     <string name="networks">Selectie operator</string>
     <string name="next_button_label">Volgende</string>
     <string name="next_label">Volgende</string>
@@ -1157,7 +1157,7 @@
     <string name="tether_settings_summary_both">Deel mob. dataverb. via USB of als draagbare Wi-Fi-hotspot</string>
     <string name="tether_settings_summary_usb">Deel de mobiele dataverbinding van uw telefoon via USB</string>
     <string name="tether_settings_summary_wifi">Deel mobiele dataverb. van tel. als draagbare Wi-Fi-hotspot</string>
-    <string name="tether_settings_title_both">Tethering en hotspot instellingen</string>
+    <string name="tether_settings_title_both">Tethering & Hotspot instellingen</string>
     <string name="tether_settings_title_usb">Verbinden</string>
     <string name="tether_settings_title_wifi">Draagbare hotspot</string>
     <string name="tethering_help_button_text">Help</string>

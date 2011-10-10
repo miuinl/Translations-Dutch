@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_toggle_network_type">Netwerk type</string>
+    <string name="online_hottest">Hottest</string>
+    <string name="online_hottest_short">Hottest</string>
+    <string name="choose_default_input_method">Kies standaard invoer methode</string>
+    <string name="change_default_input_method">Door lang vasthouden van het invoerveld kan de invoer methode later gewijzigd worden</string>
     <string name="BaMmi">Oproep blokkeren</string>
     <string name="CLIRDefaultOffNextCallOff">Beller-id standaard ingesteld op \'onbeperkt\'. Volgende oproep: onbeperkt.</string>
     <string name="CLIRDefaultOffNextCallOn">Beller-id standaard ingesteld op \'onbeperkt\'. Volgende oproep: beperkt.</string>

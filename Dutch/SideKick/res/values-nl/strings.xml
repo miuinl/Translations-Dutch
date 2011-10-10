@@ -32,5 +32,5 @@
     <string name="default_web_search_engine_baidu">http://www.bing.nl/search?q=</string>
     <string name="recent_dialog_buttonAppKiller_summary">Er is %1$s vrijgegeven \nBeschikbaar geheugen: %2$s</string>
     <string name="recent_dialog_buttonAppKiller">Sluit applicaties</string>
-    <string name="recent_dialog_buttonTaskManager">Proccessen</string>
+    <string name="recent_dialog_buttonTaskManager">Processen</string>
 </resources>
