@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Geluids Recorder</string>
+    <string name="app_name">Recorder</string>
     <string name="recording">Opnemen</string>
     <string name="recording_stopped">Opnemen gestopt</string>
     <string name="storage_is_full">Opslag is vol</string>

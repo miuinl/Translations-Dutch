@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Thema beheer</string>
-    <string name="theme_activity_lable">Thema beheer</string>
+    <string name="app_name">Thema\'s</string>
+    <string name="theme_activity_lable">Thema\'s</string>
     <string name="theme_changing_dialog_title">Configureren</string>
     <string name="theme_changed_message">Thema toegepast</string>
     <string name="theme_changed_failed_message">Thema toepassen is mislukt</string>

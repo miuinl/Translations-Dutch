@@ -44,7 +44,7 @@
     <string name="edit_whitelist">Bewerk witte lijst</string>
     <string name="emptylist_fwlog_call">Geblokkeerde oproepen worden hier weergegeven</string>
     <string name="emptylist_fwlog_ms">Geblokkeerde berichten worden hier weergegeven</string>
-    <string name="enable_firewall">Contacten blokkeren</string>
+    <string name="enable_firewall">Niet Storen</string>
     <string name="firewall_action">Actie:</string>
     <string name="firewall_log">Niet Storen log</string>
     <string name="firewall_settings">Niet-Storen instellingen</string>

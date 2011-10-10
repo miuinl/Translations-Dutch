@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="added_favorite">Aan favorieten toegevoegd</string>
-    <string name="app_name">Bestand Beheer</string>
+    <string name="app_name">Bestanden</string>
     <string name="cancel">Annuleer</string>
     <string name="category_all">Alle</string>
     <string name="category_apk">Apk\'s</string>
