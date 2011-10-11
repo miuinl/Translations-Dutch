@@ -1157,7 +1157,7 @@
     <string name="tether_settings_summary_both">Deel mob. dataverb. via USB of als draagbare Wi-Fi-hotspot</string>
     <string name="tether_settings_summary_usb">Deel de mobiele dataverbinding van uw telefoon via USB</string>
     <string name="tether_settings_summary_wifi">Deel mobiele dataverb. van tel. als draagbare Wi-Fi-hotspot</string>
-    <string name="tether_settings_title_both">Tethering & Hotspot instellingen</string>
+    <string name="tether_settings_title_both">Tethering &amp; Hotspot instellingen</string>
     <string name="tether_settings_title_usb">Verbinden</string>
     <string name="tether_settings_title_wifi">Draagbare hotspot</string>
     <string name="tethering_help_button_text">Help</string>
