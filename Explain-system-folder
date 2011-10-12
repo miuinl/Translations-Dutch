@@ -1,0 +1,6 @@
+For using the system folder for Dutch translations:
+when using autoAPKtool:
+  add this folder under _FLASHABLES
+when NOT using autoAPKtool:
+  update ROM .zip file with system folder
+ 
