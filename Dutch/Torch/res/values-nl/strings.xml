@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Lamp</string>
+    <string name="about">Over:</string>
+    <string name="about_btn">Over Lamp</string>
+    <string name="about_title">Over</string>
+    <string name="about_close">Sluit</string>
+    <string name="description">Deze applicatie kan de camera LED gebruiken.\n</string>
+    <string name="warning">Waarschuwing: de LED laten branden kan oververhitting veroorzaken.\n\nVolle sterkte \'altijd aan\' is 1/2 uur getest, maar er is kans om de LED hiermee te beschadigen.\n</string>
+    <string name="license">Originele code van Nexus One Torch door Ben Buxton, onder GPL, v3.\nhttp://n1torch.googlecode.com/\n\nDank aan David Prieto voor het nieuwe design.\n\nAangepast voor CyanogenMod door Steve Kondik.\n\n</string>
+    <string name="warning_label">Waarschuwing</string>
+    <string name="brightwarn">Volle sterkte is succesvol getest gedurende een 1/2 uur, maar de LED wordt dan zeer heet en begon te flikkeren bij 45 minuten. Langdurige effecten zijn niet bekend.\n\nDit wordt nog niet gesupport door de widget.\n\nKlik \'Accepteer\' voor gebruik op eigen risico.</string>
+    <string name="brightwarn_title">Hoge helderheid \'Aan\' toets!</string>
+    <string name="brightwarn_negative">Bedankt</string>
+    <string name="brightwarn_accept">Accepteer</string>
+    <string name="label_on">Aan</string>
+    <string name="label_off">Uit</string>
+    <string name="label_high">Hoge helderheid</string>
+    <string name="label_strobe">Flits</string>
+    <string name="label_frequency">Frequentie: (schuif om te wijzigen)</string>
+    <string name="widget_options">Algemene opties</string>
+    <string name="setting_widget_bright">Helder widget</string>
+    <string name="setting_widget_strobe">Flits</string>
+    <string name="setting_frequency_title">Flits frequentie</string>
+    <string name="setting_frequency_summary">Frequentie van flits licht</string>
+    <string name="setting_frequency_dialog">Frequentie</string>
+    <string name="setting_frequency_hz">Hz</string>
+    <string name="setting_add_widget">Widget toevoegen</string>
+    <string name="not_torch_title">Lamp aan</string>
+    <string name="not_torch_summary">Lamp is aan</string>
+    <string name="widget_label">Lamp</string>
+    <string name="torch_message">Hou [icon] ingedrukt op het lockscreen voor lamp gebruik</string>
+</resources>
